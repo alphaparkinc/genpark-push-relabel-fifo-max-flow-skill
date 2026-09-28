@@ -1,0 +1,6 @@
+name: genpark-push-relabel-fifo-max-flow-skill
+version: 1.0.0
+description: Goldberg-Tarjan Push-Relabel maximum flow algorithm with FIFO vertex discharge and height relabeling
+command: python
+args:
+  - mcp_server.py
