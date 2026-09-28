@@ -1,0 +1,20 @@
+{
+  "name": "genpark-push-relabel-fifo-max-flow-skill",
+  "version": "1.0.0",
+  "description": "Goldberg-Tarjan Push-Relabel maximum flow algorithm with FIFO vertex discharge and height relabeling",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "push-relabel",
+    "goldberg-tarjan",
+    "max-flow",
+    "preflow-push",
+    "residual-graph",
+    "python-standard-library",
+    "agent-skills",
+    "network-flow",
+    "combinatorial-optimization",
+    "fifo-discharge"
+  ]
+}
